@@ -1,6 +1,6 @@
-var AmaizingDapp = artifacts.require("AmaizingDapp.sol")
+var AmazingDrac = artifacts.require("AmazingDrac.sol")
 
 module.exports = function(deployer) {
-  deployer.deploy(AmaizingDapp);
+  deployer.deploy(AmazingDrac);
 
 };

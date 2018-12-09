@@ -1,8 +1,8 @@
 /* Main app configs go here */
 
 export const appConfig = {
-  name: 'Dracs Dapp',
-  shortName: 'YourReactDapp',
+  name: 'Smart Hedge',
+  shortName: 'DDapp',
   description: 'An expert foundational React boilerplate for Ethereum Dapps',
-  splashScreenBackground: '#ffffff'
+  splashScreenBackground: '#ebf5ff'
 }

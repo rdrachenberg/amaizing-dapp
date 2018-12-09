@@ -18,7 +18,7 @@ class HomeView extends Component {
     const { actions } = this.props
     const { name } = this.state
 
-    actions.name.checkIfNameExists(name)
+    actions.name.checkIfExists(name)
     evt.preventDefault()
   }
 

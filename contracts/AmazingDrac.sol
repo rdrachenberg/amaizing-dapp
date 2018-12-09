@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-contract AmazingDapp {
+contract AmazingDrac {
     mapping (string => bool) private names;
 
     function checkIfExists(string name) constant returns (bool) {
